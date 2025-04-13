@@ -26,9 +26,9 @@ This project demonstrates proficiency in the following areas:
     * CSS3: Styling, layout (potentially using frameworks like Bootstrap/Tailwind CSS or custom CSS), and responsive design implementation.
     * JavaScript (ES6+): Interactive elements, form validation, potentially dynamic content loading, and integration with third-party services.
     * [Add any specific JS frameworks/libraries used, e.g., React, Vue, jQuery]
-* **Backend Development (Optional - Add if applicable):**
-    * [Mention backend language/framework used, e.g., Node.js/Express, Python/Django/Flask, PHP/Laravel] for handling booking logic, contact form submissions, and payment processing coordination.
-    * [Mention database used, e.g., PostgreSQL, MySQL, MongoDB] for storing booking information or user data.
+* **Backend Development:**
+    * [Mention backend language/framework used, e.g., Node.js, PHP] for handling booking logic, contact form submissions, and payment processing coordination.
+
 * **Third-Party Integrations:** Experience in integrating external services for specific functionalities.
 * **UI/UX Design:** Focus on creating a user-friendly and visually appealing interface.
 * **Version Control:** Use of Git and GitHub for documentation management.
@@ -37,7 +37,7 @@ This project demonstrates proficiency in the following areas:
 
 ### Payment Links
 
-* **Method:** Payments are handled using [Specify Payment Gateway, e.g., Stripe].
+* **Method:** Payments are handled using [ Payment Gateway, e.g., Stripe].
    
 ### Other Integrations
 
